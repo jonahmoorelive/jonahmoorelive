@@ -1,4 +1,4 @@
 -  Hi, I’m Jonah Moore
--  I’m interested in Linux OS
+-  I’m open source enthusiast
 -  How to reach me: jonahmoorelive@gmail.com
 
